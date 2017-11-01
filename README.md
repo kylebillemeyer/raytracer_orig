@@ -3,7 +3,7 @@ raytracer_orig
 
 This is the original ray tracer (java) I wrote in Spring 2010 for Computer Graphics.  The assignment details can be found <a href="http://www.ccs.neu.edu/course/cs4300/s10/HW6/HW6.htm">here</a>.  
 
-![3sCheck.rts](https://imgur.com/TrTnv0I)
+![3sCheck.rts](https://i.imgur.com/TrTnv0I.png)
 
 <h2>Summary</h2>
 
